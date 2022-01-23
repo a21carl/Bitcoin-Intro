@@ -81,7 +81,7 @@ Fel. Vi i Sverige förstår kanske inte varför bitcoin är bra, men sedan mars 
 
 ## VARFÖR ÄR INFLATION DÅLIGT?
 
-Det går inte bygga ett komplicerat system (världens ekonomi) med ett inbyggt läckage (inflation).
+Det går inte att bygga ett komplicerat system (världens ekonomi) med ett inbyggt läckage (inflation). Förr eller senare kommer ett sådant system sluta fungera.
 
 Bitcoin är ett slutet system utan läckage och behöver bara fortsätta existera för att bli mer värdefullt.
 
