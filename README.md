@@ -73,7 +73,7 @@ För värde är subjektivt. Inget har ett inneboende värde. Om man ser bitcoin 
 
 ## BARA EN BUBBLA
 
-Den som avfärdar bitcoin som en bubbla har inte tänkt tillräckligt länge. Teknik sprider sig snabbt och explosivt. Ibland har hypen för bitcoin för stor, för att priset gått upp mycket. Men hypen avtar och hittar en balans igen.
+Den som avfärdar bitcoin som en bubbla har inte tänkt tillräckligt länge. Teknik sprider sig snabbt och explosivt. Ibland har hypen för bitcoin blivit för stor, för att priset gått upp mycket. Men hypen avtar och hittar en balans igen.
 
 ## INGEN ANVÄNDER DET
 
@@ -106,3 +106,26 @@ Nej. Bitcoin har inga konkurrenter. För att någon annan coin ska överta trone
 Allt har risk. Att köpa en aktie är riskabelt för jag vet inte vad bolaget kan råka ut för.
 
 Kan man tänka långsiktigt och lägga ordentligt med tid för att veta vad man äger så kan man kontrollera risken. Man bör inte köpa bitcoin om man inte kan hålla det i fyra år.
+
+## VARFÖR ÄR INFLATION DÅLIGT?
+
+Det går inte bygga ett komplicerat system (världens ekonomi) med ett inbyggt läckage (inflation).
+
+Bitcoin är ett slutet system utan läckage och behöver bara fortsätta existera för att bli mer värdefullt.
+
+![](https://pbs.twimg.com/media/FHm0VFNXMAUpdB2?format=png&name=900x900)
+
+## ÖVRIGT
+
+Ingen ska köpa något som de inte förstår. Bitcoin är svårt för det är nytt, men det finns många bra resurser. Här kommer några:
+
+Följ dessa:
+@100trillionUSD 
+@saylor
+@PrestonPysh
+@maxkeiser
+@adam3us
+@saifedean
+@johnkvallis
+@Excellion
+
