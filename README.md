@@ -79,6 +79,14 @@ Den som avfärdar bitcoin som en bubbla har inte tänkt tillräckligt länge. Te
 
 Fel. Vi i Sverige förstår kanske inte varför bitcoin är bra, men sedan mars 2020 har intresset och kunskapen om bitcoin ökat kraftigt runt hela planeten för att fler förstår problemet med inflation.
 
+## VARFÖR ÄR INFLATION DÅLIGT?
+
+Det går inte bygga ett komplicerat system (världens ekonomi) med ett inbyggt läckage (inflation).
+
+Bitcoin är ett slutet system utan läckage och behöver bara fortsätta existera för att bli mer värdefullt.
+
+![](https://pbs.twimg.com/media/FHm0VFNXMAUpdB2?format=png&name=900x900)
+
 ## HUR KAN JAG ANVÄNDA BITCOIN
 
 Att spara är att använda.
@@ -107,14 +115,6 @@ Allt har risk. Att köpa en aktie är riskabelt för jag vet inte vad bolaget ka
 
 Kan man tänka långsiktigt och lägga ordentligt med tid för att veta vad man äger så kan man kontrollera risken. Man bör inte köpa bitcoin om man inte kan hålla det i fyra år.
 
-## VARFÖR ÄR INFLATION DÅLIGT?
-
-Det går inte bygga ett komplicerat system (världens ekonomi) med ett inbyggt läckage (inflation).
-
-Bitcoin är ett slutet system utan läckage och behöver bara fortsätta existera för att bli mer värdefullt.
-
-![](https://pbs.twimg.com/media/FHm0VFNXMAUpdB2?format=png&name=900x900)
-
 ## ÖVRIGT
 
 Ingen ska köpa något som de inte förstår. Bitcoin är svårt för det är nytt, men det finns många bra resurser. Här kommer några:
@@ -128,4 +128,6 @@ Följ dessa:
 @saifedean
 @johnkvallis
 @Excellion
+
+
 
