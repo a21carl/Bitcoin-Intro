@@ -1,12 +1,15 @@
 # Bitcoin (introduktion)
 
-VAD ÄR BITCOIN
+En kort beskrivning av bitcoin som tar upp några grundläggande delar och som försöker besvara vanligt förekommande frågor.
+Skriven av [@a21_carl](https://www.twitter.com/a21_carl) på twitter.
+
+## VAD ÄR BITCOIN
 
 Det är ett datorprogram som har installerats på datorer över hela planeten. Programmet löser ett problem: det låter dig skicka och ta emot monetärt värde.
 
 ![](https://pbs.twimg.com/media/FHPR6qXXoAE3yoe?format=jpg&name=medium)
 
-VAD ÄR MONETÄRT VÄRDE
+## VAD ÄR MONETÄRT VÄRDE
 
 Det kan vara priset du betalar för en varmkorv, lönen du får för ditt arbete, eller priset på en aktie.
 
