@@ -69,7 +69,7 @@ Just nu är bitcoins energianvändning mindre än 1% av den totala energianvänd
 
 ## HUR KAN BITCOIN VARA VÄRT NÅGOT?
 
-För värde är subjektivt. Inget har ett inneboende värde. Om man ser bitcoin som teknik så är det uppenbart att det har värde, på samma sätt som annan teknik har värde: datorer, diskmaskiner, bilar, växelström. Även guld och kreditkort är teknik. För en djupare förståelse av bitcoins värde som pengar så förklaras det i denna podcast.
+För värde är subjektivt. Inget har ett inneboende värde. Om man ser bitcoin som teknik så är det uppenbart att det har värde, på samma sätt som annan teknik har värde: datorer, diskmaskiner, bilar, växelström. Även guld och kreditkort är teknik. För en djupare förståelse av bitcoins värde som pengar så förklaras det i [denna podcast](https://github.com/a21carl/Bitcoin-Intro/blob/main/README.md#podcast).
 
 ## BARA EN BUBBLA
 
@@ -134,11 +134,14 @@ Följ dessa:
 ### Podcast
 
 Är du nybörjare rekommenderar jag att du börjar med att lyssna på det här avsnittet.
-https://whatismoneypodcast.com/episodes/bitcoin-101-with-linda-hill-wim114
+
+[![Bitcoin 101](https://image.simplecastcdn.com/images/8862bce3-8814-46a6-9b72-a533960bbd50/023ba040-034c-4d43-a239-4429800da985/150x150/wim114-bitcoin101-ep-01-v001@2x.jpg)](https://whatismoneypodcast.com/episodes/bitcoin-101-with-linda-hill-wim114)
 
 ### YouTube
 
 Bra intervju med Michael Saylor om inflation och hur bitcoin kan göra livet bättre för alla i form av digital privat egendom. Han förklarar varför man bör se bitcoin som teknik och gör jämförelser med upptäckter av annan teknik som t.ex. eld, elektricitet och energi.
-https://www.youtube.com/watch?v=7biBCkOszvY
+
+[![Michael Saylor & Firas Zahabi](https://i.ytimg.com/vi/7biBCkOszvY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAVWBpuCZRNzpSrvi3CmXcd2yNMeg)](https://www.youtube.com/watch?v=7biBCkOszvY)
+
 
 
