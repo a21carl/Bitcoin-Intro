@@ -140,11 +140,15 @@ Följ dessa:
 
 [![Bitcoin 101](https://image.simplecastcdn.com/images/8862bce3-8814-46a6-9b72-a533960bbd50/023ba040-034c-4d43-a239-4429800da985/150x150/wim114-bitcoin101-ep-01-v001@2x.jpg)](https://whatismoneypodcast.com/episodes/bitcoin-101-with-linda-hill-wim114)
 
+https://whatismoneypodcast.com/episodes/bitcoin-101-with-linda-hill-wim114
+
 ### YOUTUBE
 
 Bra intervju med Michael Saylor om inflation och hur bitcoin kan göra livet bättre för alla i form av digital privat egendom. Han förklarar varför man bör se bitcoin som teknik och gör jämförelser med upptäckter av annan teknik som t.ex. eld, elektricitet och energi.
 
 [![Michael Saylor & Firas Zahabi](https://i.ytimg.com/vi/7biBCkOszvY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAVWBpuCZRNzpSrvi3CmXcd2yNMeg)](https://www.youtube.com/watch?v=7biBCkOszvY)
+
+https://www.youtube.com/watch?v=7biBCkOszvY
 
 
 
