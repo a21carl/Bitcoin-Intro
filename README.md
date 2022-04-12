@@ -119,25 +119,28 @@ Kan man tänka långsiktigt och lägga ordentligt med tid för att veta vad man 
 
 Ingen ska köpa något som de inte förstår. Bitcoin är svårt för det är nytt, men det finns många bra resurser. Här kommer några:
 
-### Twitter
+### TWITTER
 
 Följ dessa:
-@100trillionUSD 
-@saylor
-@PrestonPysh
-@maxkeiser
-@adam3us
-@saifedean
-@johnkvallis
-@Excellion
 
-### Podcast
+[@100trillionUSD](https://twitter.com/@100trillionUSD) 
+[@saylor](https://twitter.com/@saylor)
+[@PrestonPysh](https://twitter.com/@PrestonPysh)
+[@maxkeiser](https://twitter.com/@maxkeiser)
+[@adam3us](https://twitter.com/@adam3us)
+[@saifedean](https://twitter.com/@saifedean)
+[@johnkvallis](https://twitter.com/@johnkvallis)
+[@Excellion](https://twitter.com/@Excellion)
+[@DocumentingBTC](https://twitter.com/@DocumentingBTC)
+[@BTC_Archive](https://twitter.com/@BTC_Archive)
+
+### PODCAST
 
 Är du nybörjare rekommenderar jag att du börjar med att lyssna på det här avsnittet.
 
 [![Bitcoin 101](https://image.simplecastcdn.com/images/8862bce3-8814-46a6-9b72-a533960bbd50/023ba040-034c-4d43-a239-4429800da985/150x150/wim114-bitcoin101-ep-01-v001@2x.jpg)](https://whatismoneypodcast.com/episodes/bitcoin-101-with-linda-hill-wim114)
 
-### YouTube
+### YOUTUBE
 
 Bra intervju med Michael Saylor om inflation och hur bitcoin kan göra livet bättre för alla i form av digital privat egendom. Han förklarar varför man bör se bitcoin som teknik och gör jämförelser med upptäckter av annan teknik som t.ex. eld, elektricitet och energi.
 
