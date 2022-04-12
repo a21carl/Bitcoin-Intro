@@ -69,7 +69,7 @@ Just nu är bitcoins energianvändning mindre än 1% av den totala energianvänd
 
 ## HUR KAN BITCOIN VARA VÄRT NÅGOT?
 
-För värde är subjektivt. Inget har ett inneboende värde. Om man ser bitcoin som teknik så är det uppenbart att det har värde, på samma sätt som annan teknik har värde: datorer, diskmaskiner, bilar, växelström. Även guld och kreditkort är teknik. För en djupare förståelse av bitcoins värde som pengar så förklaras det i [denna podcast](https://github.com/a21carl/Bitcoin-Intro/blob/main/README.md#podcast).
+För värde är subjektivt. Inget har ett inneboende värde. Om man ser bitcoin som teknik så är det uppenbart att det har värde, på samma sätt som annan teknik har värde: datorer, diskmaskiner, bilar, växelström. Även guld och kreditkort är teknik. För en djupare förståelse av bitcoins värde som pengar så förklaras det i [denna podcast](https://github.com/a21carl/Bitcoin-Intro/#podcast).
 
 ## BARA EN BUBBLA
 
